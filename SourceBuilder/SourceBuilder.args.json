@@ -1,0 +1,18 @@
+{
+  "FileVersion": 2,
+  "Id": "e8079e66-62fc-4e3c-a2a0-75e66968f8d6",
+  "Items": [
+    {
+      "Id": "ebc87c40-3da0-4240-846c-f07e33e824bf",
+      "Command": "..\\"
+    },
+    {
+      "Id": "21fb83c3-f165-4e79-ae36-2226f5a16d93",
+      "Command": "C:\\Users\\cheeh\\Desktop\\SourceBuilderTest\\SourceBuilderTest"
+    },
+    {
+      "Id": "c0411bcb-2da4-43e4-a349-f8968b3bccbc",
+      "Command": "/"
+    }
+  ]
+}
